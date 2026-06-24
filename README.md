@@ -38,11 +38,7 @@ git clone https://github.com/ajaybca24aascc-ux/recipe-search.git
 cd recipe-search
 npm install
 npm run dev
-```
-
-## 📷 Screenshots
-
-(Add your project screenshots here.)
+```git
 
 ## 👨‍💻 Developer
 
