@@ -1,16 +1,53 @@
-# React + Vite
+# 🍽 Recipe Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that helps users discover recipes using ingredients they already have. The app fetches recipe data from the Spoonacular API and provides detailed cooking instructions, favorites, and recent search history.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Search recipes by ingredient
+- View recipe details
+- Save favorite recipes
+- Recent search history
+- Responsive user interface
+- Error handling for API requests
+- Local Storage support
 
-## React Compiler
+## 🛠 Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- Axios
+- CSS3
+- Spoonacular API
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+src/
+ ├── components/
+ ├── assets/
+ ├── App.jsx
+ ├── App.css
+ └── main.jsx
+```
+
+## ▶️ Installation
+
+```bash
+git clone https://github.com/ajaybca24aascc-ux/recipe-search.git
+cd recipe-search
+npm install
+npm run dev
+```
+
+## 📷 Screenshots
+
+(Add your project screenshots here.)
+
+## 👨‍💻 Developer
+
+Ajay Kumar
+
+## 📜 License
+
+This project is developed for learning purposes.
